@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+title:              Tina Blog
+email:              wangtiantian109@163.com
+description:        好记性不如烂笔头，在这里记录一些个人的学习心得&工作感悟
+author:             Tina Wang
+baseurl:            "/cblog"
+url:                "https://wtt20.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    wtt20
+facebook_username:  
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
